@@ -29,7 +29,7 @@ namespace semana3
             }
             else
             {
-                DisplayAlert("Error", "Usuario o contraseña incorrectos", "OK");
+                DisplayAlert("Error","Usuario o contraseña incorrectos","OK");
             }
             
         }
